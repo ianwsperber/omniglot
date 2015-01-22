@@ -1,0 +1,5 @@
+[package]
+
+name = "omniglot"
+version = "0.0.1"
+authors = ["Ian Walker-Sperber <ianwsperber@gmail.com>"]
